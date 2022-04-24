@@ -5,7 +5,7 @@ _It's a players' website. Here is information about different players. Users wil
 <br>
 
 - #### _**Live Demo:**_ https://simple-raect-assignment-7.netlify.app/
-- #### _**Source Code:**_ https://github.com/hmzsumon/simple-react-assignment-7
+
 
 <br>
 
